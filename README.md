@@ -5,4 +5,7 @@ Now, I'm making changes to my README document. I wonder if anybody including mys
 
 Update 1/27/18: 
 Here I am again. 
-Still trying to learn how github works. 
+Still trying to learn how github works.
+
+==================================================================================================================================
+This looks like it's going to me my first branch. 
